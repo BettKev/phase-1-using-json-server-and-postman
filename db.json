@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": "ac6a",
+      "title": "Third Article",
+      "content": "Another example!"
+    }
+  ],
+  "trends": [
+    {
+      "id": "43ba",
+      "title": "Gachagua impeached",
+      "content": "Another day another battle"
+    }
+  ],
+  "news": [
+    {
+      "id": "05f4",
+      "title": "Ruto in trouble",
+      "paragraph": "We don't understand your logic"
+    }
+  ]
+}
